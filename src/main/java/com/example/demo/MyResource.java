@@ -14,7 +14,7 @@ public class MyResource {
 	{
 		
 		ArrayList<String> l = new ArrayList<String>();
-		l.add("Srini"); l.add("Ratan"); l.add("Jathin");
+		l.add("Srini"); l.add("Ratan"); l.add("Jathin"); l.add("Swathi");
 		return l;
 	}
 }
